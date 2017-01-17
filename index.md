@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Testing
+Recipes
 
-[Coca-Cola Cake](https://pages-themes.github.io/minimal/cokecake.html).
+[cokecake.html](Coca-Cola Cake).
 
-[Gingerbread](https://pages-themes.github.io/minimal/gingerbread.html).
+[gingerbread.html](Gingerbread).
 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
