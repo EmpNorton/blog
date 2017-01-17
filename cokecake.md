@@ -2,6 +2,11 @@
 layout: recipe
 title: Coca-Cola Cake
 ---
+### Coca-Cola Cake
+
+I received this recipe from my sister and have been making it since high school ( a very long time ago). It's 
+easy to make from scratch and produces a moist cake and can be made quickly the night before.
+
 
 ## Ingredients
 
@@ -21,11 +26,12 @@ title: Coca-Cola Cake
 1. Sift flour and sugar in a bowl.
 2. Heat margarine, cocoa, and Coke to boiling point and pour over flour/sugar mixture.
 3. Add buttermilk, baking soda, eggs, vanilla, and marshmallows and mix. Batter looks thin and marshmallows will float.
-4. Pour batter into oblong, floured and buttered cake pan.
+4. Pour batter into oblong, floured and buttered 9 x 13 inch cake pan.
 5. Bake @ 350 degrees for 30 to 35 minutes.  (Use toothpicks to tell when done).
 6. Ice cake while hot.
 
 ## Frosting Ingredients
+
 * 1/2 cup butter or margarine
 * 3 Tablespoons unsweetened cocoa
 * 6 Tablespoons Coca-Cola
@@ -52,6 +58,7 @@ My one complaint with the above frosting is that it is too heavy, more like a fu
 * ~ 3/4 cup chopped walnuts (this is somewhat experimental, but it should be a good starting point)
 
 ## Method
+
 1. Combine all ingredients except the nuts into a saucepan over low heat and stir until smooth.
 2. Then add the nuts and pour over the COOLED cake.
 
