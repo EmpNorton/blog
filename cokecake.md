@@ -2,7 +2,7 @@
 layout: recipe
 title: Coca-Cola Cake
 ---
-### Coca-Cola Cake
+# Coca-Cola Cake
 
 I received this recipe from my sister and have been making it since high school ( a very long time ago). It's 
 easy to make from scratch and produces a moist cake and can be made quickly the night before.
