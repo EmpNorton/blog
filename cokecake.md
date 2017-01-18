@@ -3,7 +3,7 @@ layout: recipe
 title: Coca-Cola Cake
 ---
 
-[back](/index)
+[back](/blog/index.html)
 
 # Coca-Cola Cake
 
