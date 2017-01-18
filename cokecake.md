@@ -2,6 +2,9 @@
 layout: recipe
 title: Coca-Cola Cake
 ---
+
+[back](https://empnorton.github.io/)
+
 # Coca-Cola Cake
 
 I received this recipe from my sister and have been making it since high school ( a very long time ago). It's 
