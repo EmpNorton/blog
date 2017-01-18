@@ -3,7 +3,7 @@ layout: recipe
 title: Coca-Cola Cake
 ---
 
-[back](https://empnorton.github.io/)
+[back](/index)
 
 # Coca-Cola Cake
 
