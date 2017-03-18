@@ -1,8 +1,6 @@
 ---
-layout: recipe
+layout: default
 title: Gingerbread
-recipe-attribution: HungryJenny
-recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
 
 [back](/blog/index)
@@ -38,3 +36,7 @@ Makes about 15 small cookies.
    cookies as you like.
 7. Transfer the cookies to a tray and bake in the oven for 15 minutes.
    Lightly dust the cookies with icing sugar.
+
+
+### recipe-attribution: HungryJenny
+### recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies

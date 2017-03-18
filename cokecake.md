@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: default
 title: Coca-Cola Cake
 ---
 
